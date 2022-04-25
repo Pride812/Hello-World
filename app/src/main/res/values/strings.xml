@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">LoftMoney</string>
-    <string name="Расход">Расход</string>
-    <string name="Цена">Цена</string>
-    <string name="Добавить">Добавить</string>
+    <string name="NameLine">NameLine</string>
+    <string name="Price">Price</string>
+    <string name="Add">Add</string>
 
 </resources>
