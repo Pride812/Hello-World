@@ -8,6 +8,7 @@ android:layout_height="wrap_content"
 tools:context=".AddItemActivity">
 
     <EditText
+
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="64dp"
@@ -41,11 +42,5 @@ tools:context=".AddItemActivity">
         android:layout_margin="64dp"
         app:layout_constraintTop_toBottomOf="@id/price"
         tools:layout_editor_absoluteX="0dp" />
-
-
-
-
-
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>
