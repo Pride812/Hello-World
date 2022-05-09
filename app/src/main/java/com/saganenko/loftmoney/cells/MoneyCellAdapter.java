@@ -47,6 +47,12 @@ public class MoneyCellAdapter extends RecyclerView.Adapter<MoneyCellAdapter.Mone
 
         notifyDataSetChanged();
     }
+    public void setData(List<MoneyItem> items) {
+        itemsList.clear();
+        itemsList.addAll(items);
+
+        notifyDataSetChanged();
+    }
 
     @Override
     public int getItemCount() {

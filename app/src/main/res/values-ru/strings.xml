@@ -3,4 +3,5 @@
     <string name="NameLine">Название</string>
     <string name="Price">Цена</string>
     <string name="Add">Добавить</string>
+    <string name="something_went_wrong">Something went wrong</string>
 </resources>

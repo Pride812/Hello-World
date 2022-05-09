@@ -17,7 +17,7 @@
     <color name="primary_color">#FF3574FA</color>
     <color name="accent_color">#FF7ED321</color>
     <color name="accent_second">#FFFF9E57</color>
-
+    <color name="colorPrimaryDark">#AA3574fa</color>
     <color name="expense_color">@color/red</color>
     <color name="income_color">@color/accent_color</color>
 </resources>
